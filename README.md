@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🏥 Ecare
+# Ecare
 
 ### **Healthcare Management & Patient Care Platform**
 
 _Streamlining healthcare delivery with modern web technology_
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-0A66C2?style=for-the-badge)](https://ecare-livid.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_App-0A66C2?style=for-the-badge)](https://ecare-livid.vercel.app)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
@@ -15,7 +15,7 @@ _Streamlining healthcare delivery with modern web technology_
 
 ---
 
-## 📌 About
+## About
 
 **Ecare** is a comprehensive healthcare management platform designed to bridge the gap between patients and healthcare providers. It enables seamless appointment scheduling, medical record management, doctor discovery, and health tracking — all through a clean, intuitive web interface.
 
@@ -23,22 +23,22 @@ _Streamlining healthcare delivery with modern web technology_
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 | Feature | Description |
 |---------|-------------|
-| 🩺 **Doctor Discovery** | Browse and search doctors by specialty, location, and ratings |
-| 📅 **Appointment Booking** | Schedule, reschedule, and cancel appointments online |
-| 📋 **Medical Records** | Securely store and access patient health records |
-| 💊 **Prescription Management** | View and download digital prescriptions |
-| 🔔 **Reminders** | Appointment and medication reminders |
-| 👤 **Patient Dashboard** | Personalized health overview and history |
-| 🏥 **Provider Portal** | Dashboard for doctors to manage schedules and patients |
-| 📱 **Responsive Design** | Optimized for mobile-first healthcare access |
+| **Doctor Discovery** | Browse and search doctors by specialty, location, and ratings |
+| **Appointment Booking** | Schedule, reschedule, and cancel appointments online |
+| **Medical Records** | Securely store and access patient health records |
+| **Prescription Management** | View and download digital prescriptions |
+| **Reminders** | Appointment and medication reminders |
+| **Patient Dashboard** | Personalized health overview and history |
+| **Provider Portal** | Dashboard for doctors to manage schedules and patients |
+| **Responsive Design** | Optimized for mobile-first healthcare access |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ```
 Frontend:       JavaScript · React · Next.js
@@ -51,7 +51,7 @@ Deployment:     Vercel
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # Clone the repository
@@ -73,7 +73,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🏗️ Application Flow
+## Application Flow
 
 ```
 ┌─────────────┐     ┌──────────────┐     ┌─────────────────┐
@@ -89,7 +89,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Ecare/
@@ -106,7 +106,7 @@ Ecare/
 
 ---
 
-## 🤝 Impact
+## Impact
 
 - **Patients**: Easy access to healthcare from anywhere
 - **Doctors**: Efficient schedule management and patient tracking
@@ -117,6 +117,6 @@ Ecare/
 
 <div align="center">
 
-_Making healthcare accessible for everyone_ 🏥
+_Making healthcare accessible for everyone_
 
 </div>
